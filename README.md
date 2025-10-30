@@ -11,3 +11,12 @@ Users can:
 - 🔒 Securely store user data with authentication and encryption
 - 
 The goal of this application is to promote **self-reflection**, **emotional awareness**, and **mental wellness** in a supportive, user-friendly environment.
+
+The goal of this application is to promote **self-reflection**, **emotional awareness**, and **mental wellness** in a supportive, user-friendly environment.
+
+---
+This project was made by:
+- Miguel Gallardo 
+- Christopher Renteria
+- Edgard Zaragoza
+
